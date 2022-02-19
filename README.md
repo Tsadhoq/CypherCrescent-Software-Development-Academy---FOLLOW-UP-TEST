@@ -9,7 +9,7 @@
 R, Tableau, Visual Studio and RStudio.
 
 ## Data Visualization
-Please click [here](https://public.tableau.com/views/cypher_sda/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) for the data viz. If the link above doesn't work, please copy and paste this link to a new tab: https://public.tableau.com/views/cypher_sda/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link.
+Please click [here](https://public.tableau.com/views/cypher_sda/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) for an interactive data viz. If the link above doesn't work, please copy and paste this link to a new tab: https://public.tableau.com/views/cypher_sda/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link.
 ![Dashboard 1](https://user-images.githubusercontent.com/65626254/154820080-ffdaa730-3846-4cd8-9601-50a3e48f2ee0.png)
 
 Thank you.
