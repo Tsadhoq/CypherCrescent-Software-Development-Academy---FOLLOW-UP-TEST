@@ -7,8 +7,7 @@
 
 **Tools**
 - R 
-- Tableau 
-- Visual Studio and 
+- Tableau and 
 - RStudio.
 
 **Data Visualization**
